@@ -34,7 +34,7 @@
 <body role="document">
   <div class="container theme-showcase" role="main">
     <div class="jumbotron">
-      <h1>A Sample web application: With edit 2</h1>
+      <h1>A Sample web application: With edit 3</h1>
       <p><i>Why can't application deployment be soooooo easy?</i></p>
     </div>
     <div class="page-header">
