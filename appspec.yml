@@ -6,9 +6,6 @@ files:
   - source: /scripts/configure_http_port.xsl
     destination: /tmp/codedeploy-deployment-staging-area/
 hooks:
-  BeforeInstall:
-    - location: scripts/install_dependencies
-      timeout: 300
   ApplicationStart:
     - location: scripts/write_codedeploy_config.sh
     - location: scripts/start_application
